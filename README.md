@@ -1,7 +1,7 @@
 # Textbook-Codes translated from R to Python3
 
 ## How to use this repository (the 'easy' way):
-### Method 1 (Easiest)
+### Method 1 (Easiest, __no software installation!__)
 - Travel to: https://nbviewer.jupyter.org/github/neesarg123/Textbook-Codes/tree/main/
 - Here you can choose to view any file you want to in an online jupyter notebook viewer
 - Choose the file you want to edit or run
